@@ -5,5 +5,18 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="action_refresh">Refresh</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_location_key">Location</string>
+    <string name="pref_location_label" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">80202</string>
+
+    <string name="pref_temps_key">Units</string>
+    <string name="pref_temps_label" translatable="false">Temperature Units</string>
+    <string name="pref_units_metric">Metric</string>
+    <string name="pref_units_imperial">Imperial</string>
 
 </resources>
